@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm selmani</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Morocco </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unezaq" alt="unezaq" /></a> </p>
 
-- 🌱 I’m currently learning **cpp,html,machine leaning**
+- 🌱 I’m currently learning **artificial intelligent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
